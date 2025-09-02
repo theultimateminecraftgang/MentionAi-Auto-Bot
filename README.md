@@ -72,6 +72,10 @@ Before running the script, ensure you have the following:
    ```bash
    gem install dotenv colorize
    ```
+![Screenshot_2025-09-02-11-35-19-42_4d38fce200f96aeac5e860e739312e76](https://github.com/user-attachments/assets/f4a8ddfb-36b9-4454-9f09-1388dbddf36a)
+
+![Screenshot_2025-09-02-11-35-39-07_4d38fce200f96aeac5e860e739312e76](https://github.com/user-attachments/assets/c3c9f4ac-f644-492e-8f26-068a417e95c5)
+
 
 3. **Set Up Environment Variables**:
    Create a `.env` file in the project root and add your API credentials:
