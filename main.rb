@@ -42,7 +42,7 @@ end
 
 def display_banner
   puts BANNER.colorize(:magenta)
-  puts '      AI RESPONSE AUTOMATION BY FOREST ARMY      '.colorize(:magenta)
+  puts '      LETS FUCK THIS TESTNET CREATED BY KAZUHA787      '.colorize(:magenta)
   puts '==========================================='.colorize(:magenta)
 end
 
